@@ -41,6 +41,14 @@ git clone https://huggingface.co/spaces/sczhou/CodeFormer
 ```
 
 
+## Web Interface
+
+To start the web interface execute :
+```
+scripts/linux_run.sh
+```
+
+
 ## Quick Inference
 
 ```bash
