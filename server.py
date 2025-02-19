@@ -77,4 +77,4 @@ with gr.Blocks(title="Face Swap & Restoration") as demo:
 
 
 if __name__ == "__main__":
-    demo.launch(server_name=server_name, server_port=int(port))
+    demo.launch(favicon_path="data/favicon.ico",server_name=server_name, server_port=int(port))
